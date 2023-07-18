@@ -2,7 +2,7 @@
 Raycasting Project made Exclusively for Microsoft Windows due to needing the Windows api
 
 # To Run!
-You'll need to be in a Windows operating system. <br>
+You'll need to be in a Microsoft Windows Operating System. <br>
 ```
 1. Clone or download this repository as a ZIP.
 2. Extract the ZIP
