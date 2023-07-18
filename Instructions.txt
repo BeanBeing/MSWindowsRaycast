@@ -1,0 +1,9 @@
+--CONTROLS--
+
+MOVEMENT:
+W - Forward
+A - Left
+S - Backwards
+D - Right
+H - Strafe Right
+G - Strafe Left
