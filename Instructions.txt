@@ -2,8 +2,11 @@
 
 MOVEMENT:
 W - Forward
-A - Left
 S - Backwards
-D - Right
 H - Strafe Right
 G - Strafe Left
+
+Camera:
+
+A - Turn camera to the Left
+D - Turn camera to the right
